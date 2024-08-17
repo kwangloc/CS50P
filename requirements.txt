@@ -1,0 +1,5 @@
+cowsay
+ipykernel
+flask
+flask-mail
+config

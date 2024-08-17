@@ -1,0 +1,11 @@
+{
+"-N_Tp6wLk_XEVjOSVDuX": 
+	{
+		"bestEvents": {"answer": ["Hugo Camping"], "questions": "Sự kiện nào được tổ chức bởi Hugo đã để lại cho bạn nhiều kỷ niệm khó quên nhất?"}, 	
+		"bestMembers": {"answer": ["Huỳnh Hoàng Thiện Kim", "Huỳnh Kim Hoàng", "Lê Quang Nhật"], "question": "Theo bạn, Hugoer nào đã hoạt động năng nổ nhất trong nhiệm kỳ vừa qua?"}, 
+		"isGoing": false, 
+		"name": "Hoàng Văn Thắng", 
+		"perfectDuos": {"answer": ["Văn Thắng & Bảo Chiến", "Văn Thắng & Nguyên Khánh", "Lê Quang Nhật & Mai Trâm Anh"], "questions": "Bộ đôi nào trong Hugo để lại cho bạn nhiều ấn tượng nhất?"}, 	
+		"team": {"slogan": "Justice For All", "theme": "red", "value": "Power Rangers"}, 
+		"theRookies": {"answer": ["Đặng Bảo Chiến", "Thu Thuỷ", "Minh Tâm"], "question": "Theo bạn, những tân binh nào đã có màn thể hiện ấn tượng nhất trong thời gian vừa qua?"}
+	}
